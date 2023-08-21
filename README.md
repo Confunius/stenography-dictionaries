@@ -127,6 +127,7 @@ Now this dictionary is more intense, where we stroke phrases of these words comb
 #### work in progress:
 
 Ideally, We would want to have phrasing briefs that are related to each other, such that the phrases belong to some sort of family, like "be good" and "be great" belonging to a "be" family. This way, the phrasing would be more intuitive. Also, it would be good to search the plover dictionary to see which words are already briefed.
+
     "": "be good",
     "2": "be great",
     "3": "be right",
