@@ -108,7 +108,7 @@ Now this dictionary is more intense, where we stroke phrases of these words comb
 - `SR-PB`: "have been" - The `SR` stands for "have" and `-PB` represents "been".
 - `SEU`: "see you" - The `SE` stands for "see" and `U` represents "you".
 - `TKPWR-PBT`: "great interest" - The `TKPWR` stands for "great" and `-PBT` represents "interest".
-- - `TKPW-D`: "good day" - The `TKPW` stands for "good" and `-D` represents "day".
+- `TKPW-D`: "good day" - The `TKPW` stands for "good" and `-D` represents "day".
 - `TKPWR-D`: "great day" - The `TKPWR` stands for "great" and `-D` represents "day".
 - `TPHAEUT`: "new state" - The `TPH` stands for "new" and `AEUT` represents "state".
 - `TPHER`: "new year" - The `TPH` stands for "new" and `ER` represents "year".
