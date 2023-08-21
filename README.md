@@ -1,5 +1,5 @@
 # Stenography-Dictionaries
-This is my dictionary bank. There are some categories available:
+This is my dictionary bank. I do intend to make it such that the dictionaries do not conflict with my base dictionary, which is the lapwing theory, a plover-based theory that has some inconsistency and mis-stroke entries removed. There are some categories of my dictionary available:
 
 ## Single stroke Pronouns
 
